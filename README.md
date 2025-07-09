@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
@@ -84,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0232-implement-queue-using-stacks) |
 ## Dynamic Programming
 |  |
