@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0735-asteroid-collision) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1666-make-the-string-great) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0735-asteroid-collision) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0232-implement-queue-using-stacks) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
 |  |
 | ------- |
