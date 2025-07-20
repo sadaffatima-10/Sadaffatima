@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0206-reverse-linked-list) |
+| [0859-design-circular-deque](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0735-asteroid-collision) |
+| [0859-design-circular-deque](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0859-design-circular-deque) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0969-number-of-recent-calls) |
 ## Queue
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2195-time-needed-to-buy-tickets) |
