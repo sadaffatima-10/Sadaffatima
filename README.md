@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0735-asteroid-collision) |
 | [0859-design-circular-deque](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0859-design-circular-deque) |
@@ -144,13 +146,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
@@ -160,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
