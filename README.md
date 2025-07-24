@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0860-design-circular-queue) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
+| [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 ## Data Stream
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
+| [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
+| [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
@@ -169,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
+## Counting
+|  |
+| ------- |
+| [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 <!---LeetCode Topics End-->
