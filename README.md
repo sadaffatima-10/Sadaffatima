@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0141-linked-list-cycle) |
+| [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0055-jump-game) |
+| [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0455-assign-cookies](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0496-next-greater-element-i) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
@@ -197,6 +201,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
