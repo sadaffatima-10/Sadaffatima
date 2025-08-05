@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0224-basic-calculator) |
 | [1014-k-closest-points-to-origin](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1014-k-closest-points-to-origin) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Sorting
 |  |
 | ------- |
