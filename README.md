@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0072-edit-distance) |
+| [0168-excel-sheet-column-title](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0224-basic-calculator) |
 | [0451-sort-characters-by-frequency](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0224-basic-calculator) |
 | [1014-k-closest-points-to-origin](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1014-k-closest-points-to-origin) |
