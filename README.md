@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1184-car-pooling) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1499-maximum-performance-of-a-team](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1499-maximum-performance-of-a-team) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1499-maximum-performance-of-a-team](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1499-maximum-performance-of-a-team) |
 ## Data Stream
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0231-power-of-two) |
 | [1014-k-closest-points-to-origin](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1014-k-closest-points-to-origin) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Sorting
