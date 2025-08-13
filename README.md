@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1184-car-pooling) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0258-add-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1014-k-closest-points-to-origin) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
