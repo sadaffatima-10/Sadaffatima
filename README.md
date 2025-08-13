@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1184-car-pooling) |
+| [1195-distribute-candies-to-people](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1195-distribute-candies-to-people) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Stack
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0258-add-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1014-k-closest-points-to-origin) |
+| [1195-distribute-candies-to-people](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1195-distribute-candies-to-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
