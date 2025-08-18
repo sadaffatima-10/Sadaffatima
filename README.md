@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1962-single-threaded-cpu](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1962-single-threaded-cpu) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2195-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1499-maximum-performance-of-a-team](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1499-maximum-performance-of-a-team) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 ## Data Stream
 |  |
 | ------- |
