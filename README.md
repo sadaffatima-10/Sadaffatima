@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0860-design-circular-queue) |
 | [1014-k-closest-points-to-origin](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1014-k-closest-points-to-origin) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0780-max-chunks-to-make-sorted) |
 | [0886-score-of-parentheses](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1078-remove-outermost-parentheses) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0780-max-chunks-to-make-sorted) |
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0780-max-chunks-to-make-sorted) |
 | [1014-k-closest-points-to-origin](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1014-k-closest-points-to-origin) |
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1184-car-pooling) |
