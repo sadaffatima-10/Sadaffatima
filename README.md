@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
+| [0768-partition-labels](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0224-basic-calculator) |
 | [0451-sort-characters-by-frequency](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
 | [0886-score-of-parentheses](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1078-remove-outermost-parentheses) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0780-max-chunks-to-make-sorted) |
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
