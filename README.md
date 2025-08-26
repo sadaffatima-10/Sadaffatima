@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0860-design-circular-queue) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0072-edit-distance) |
 | [0376-wiggle-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0376-wiggle-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
+| [0747-min-cost-climbing-stairs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
