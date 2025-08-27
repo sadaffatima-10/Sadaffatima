@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1013-fibonacci-number) |
+| [1761-count-sorted-vowel-strings](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1761-count-sorted-vowel-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1761-count-sorted-vowel-strings](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1761-count-sorted-vowel-strings) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Sorting
 |  |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
