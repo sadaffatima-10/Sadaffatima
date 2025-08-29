@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0134-gas-station) |
 | [0322-coin-change](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0334-increasing-triplet-subsequence) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0376-wiggle-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
