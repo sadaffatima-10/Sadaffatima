@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0322-coin-change) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0202-happy-number) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1761-count-sorted-vowel-strings) |
 ## Breadth-First Search
 |  |
