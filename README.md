@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0072-edit-distance) |
 | [0168-excel-sheet-column-title](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0224-basic-calculator) |
+| [0392-is-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0768-partition-labels) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0376-wiggle-subsequence) |
+| [0392-is-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1013-fibonacci-number) |
