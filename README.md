@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1184-car-pooling) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1499-maximum-performance-of-a-team](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1499-maximum-performance-of-a-team) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1761-count-sorted-vowel-strings](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1761-count-sorted-vowel-strings) |
 ## Greedy
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1014-k-closest-points-to-origin) |
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1184-car-pooling) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1499-maximum-performance-of-a-team](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1499-maximum-performance-of-a-team) |
 | [1962-single-threaded-cpu](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1962-single-threaded-cpu) |
 ## Sliding Window
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Counting
 |  |
 | ------- |
