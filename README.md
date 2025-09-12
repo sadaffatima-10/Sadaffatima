@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 | [1270-dinner-plate-stacks](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1270-dinner-plate-stacks) |
+| [2444-longest-ideal-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2444-longest-ideal-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1666-make-the-string-great) |
+| [2444-longest-ideal-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2444-longest-ideal-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1761-count-sorted-vowel-strings](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1761-count-sorted-vowel-strings) |
+| [2444-longest-ideal-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2444-longest-ideal-subsequence) |
 ## Greedy
 |  |
 | ------- |
