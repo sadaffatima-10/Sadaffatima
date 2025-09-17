@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
 | [0886-score-of-parentheses](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0886-score-of-parentheses) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1105-uncrossed-lines) |
