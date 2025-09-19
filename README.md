@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0376-wiggle-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0518-coin-change-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
