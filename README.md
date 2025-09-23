@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0451-sort-characters-by-frequency) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0300-longest-increasing-subsequence) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0455-assign-cookies) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
