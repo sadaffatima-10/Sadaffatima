@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1511-count-number-of-teams) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1962-single-threaded-cpu](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1962-single-threaded-cpu) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1511-count-number-of-teams](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1511-count-number-of-teams) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1761-count-sorted-vowel-strings](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1761-count-sorted-vowel-strings) |
 | [2444-longest-ideal-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2444-longest-ideal-subsequence) |
 ## Greedy
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1499-maximum-performance-of-a-team](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1499-maximum-performance-of-a-team) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 ## Data Stream
 |  |
