@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0860-design-circular-queue) |
+| [0954-maximum-sum-circular-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1025-minimum-cost-for-tickets) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0860-design-circular-queue) |
+| [0954-maximum-sum-circular-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0747-min-cost-climbing-stairs) |
 | [0815-champagne-tower](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0815-champagne-tower) |
+| [0954-maximum-sum-circular-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1105-uncrossed-lines) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Binary Search
 |  |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
+| [0954-maximum-sum-circular-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
