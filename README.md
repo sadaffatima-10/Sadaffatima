@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0682-baseball-game) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0735-asteroid-collision) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -408,9 +410,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1511-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
