@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1039-find-the-town-judge](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1039-find-the-town-judge) |
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 | [1270-dinner-plate-stacks](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1270-dinner-plate-stacks) |
 | [2444-longest-ideal-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2444-longest-ideal-subsequence) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1039-find-the-town-judge) |
 | [1105-uncrossed-lines](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1105-uncrossed-lines) |
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1184-car-pooling) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1039-find-the-town-judge](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1916-find-center-of-star-graph) |
 ## Topological Sort
 |  |
