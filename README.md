@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1036-rotting-oranges) |
 | [1105-uncrossed-lines](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1105-uncrossed-lines) |
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1184-car-pooling) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1036-rotting-oranges](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1036-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1036-rotting-oranges) |
 ## Rolling Hash
 |  |
 | ------- |
