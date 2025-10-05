@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1962-single-threaded-cpu](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1962-single-threaded-cpu) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1479-construct-target-array-with-multiple-sums](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1499-maximum-performance-of-a-team](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1499-maximum-performance-of-a-team) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1962-single-threaded-cpu) |
 ## Ordered Set
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
 ## Counting
 |  |
 | ------- |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
 ## Trie
 |  |
 | ------- |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -439,11 +444,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0547-number-of-provinces) |
+| [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
