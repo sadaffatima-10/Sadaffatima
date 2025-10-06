@@ -1,19 +1,20 @@
 class Solution {
     public int findJudge(int n, int[][] trust) {
-        int[] trustCount = new int[n + 1];
+        int[] indegree = new int[n+1];
+        int[] outdegree = new int[n+1];
 
-        for (int[] t : trust) {
-            int a = t[0], b = t[1];
-            trustCount[a]--;
-            trustCount[b]++;
+        for(int[] t : trust){
+            int u = t[0];
+            int v = t[1];
+
+            indegree[v]++;
+            outdegree[u]++;
         }
-
-        for (int i = 1; i <= n; i++) {
-            if (trustCount[i] == n - 1) {
+        for(int i=1; i<=n; i++){
+            if(indegree[i] == (n-1) && outdegree[i] ==0){
                 return i;
             }
         }
-
         return -1;
     }
 }
