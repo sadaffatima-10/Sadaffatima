@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0922-possible-bipartition](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1036-rotting-oranges) |
 | [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
 ## Trie
@@ -444,12 +445,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0922-possible-bipartition](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0922-possible-bipartition) |
 | [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0547-number-of-provinces) |
+| [0922-possible-bipartition](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0922-possible-bipartition) |
 | [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0922-possible-bipartition](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1916-find-center-of-star-graph) |
 ## Topological Sort
