@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1962-single-threaded-cpu) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2195-time-needed-to-buy-tickets) |
+| [2206-detonate-the-maximum-bombs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2206-detonate-the-maximum-bombs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1761-count-sorted-vowel-strings](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1761-count-sorted-vowel-strings) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2206-detonate-the-maximum-bombs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2206-detonate-the-maximum-bombs) |
 ## Sorting
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1014-k-closest-points-to-origin) |
+| [2206-detonate-the-maximum-bombs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2206-detonate-the-maximum-bombs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1036-rotting-oranges) |
 | [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
+| [2206-detonate-the-maximum-bombs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2206-detonate-the-maximum-bombs) |
 ## Trie
 |  |
 | ------- |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0922-possible-bipartition) |
 | [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
+| [2206-detonate-the-maximum-bombs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2206-detonate-the-maximum-bombs) |
 ## Union Find
 |  |
 | ------- |
@@ -464,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1916-find-center-of-star-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2206-detonate-the-maximum-bombs) |
 ## Topological Sort
 |  |
 | ------- |
