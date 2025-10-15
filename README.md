@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0202-happy-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0063-unique-paths-ii) |
+| [0088-merge-sorted-array](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0139-word-break) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0451-sort-characters-by-frequency) |
