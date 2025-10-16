@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0088-merge-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0063-unique-paths-ii) |
