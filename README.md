@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0225-implement-stack-using-queues) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0210-course-schedule-ii) |
@@ -492,4 +494,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0803-cheapest-flights-within-k-stops) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
