@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0922-possible-bipartition) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2206-detonate-the-maximum-bombs) |
@@ -500,9 +501,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0144-binary-tree-preorder-traversal) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0144-binary-tree-preorder-traversal) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
