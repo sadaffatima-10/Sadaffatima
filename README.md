@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0922-possible-bipartition) |
@@ -501,11 +502,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0543-diameter-of-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0543-diameter-of-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
