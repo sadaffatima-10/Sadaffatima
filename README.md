@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Binary Indexed Tree
 |  |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0572-subtree-of-another-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0922-possible-bipartition) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0572-subtree-of-another-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -510,5 +513,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0572-subtree-of-another-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
