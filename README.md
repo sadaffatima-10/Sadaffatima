@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0455-assign-cookies) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0213-house-robber-ii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0231-power-of-two) |
