@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1753-path-with-minimum-effort) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1962-single-threaded-cpu](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1962-single-threaded-cpu) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2195-time-needed-to-buy-tickets) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2206-detonate-the-maximum-bombs) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1761-count-sorted-vowel-strings](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1761-count-sorted-vowel-strings) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sadaffatima-10/Sadaffatima/tree/master/2206-detonate-the-maximum-bombs) |
 ## Sorting
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Memoization
 |  |
 | ------- |
