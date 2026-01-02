@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0560-subarray-sum-equals-k) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0224-basic-calculator) |
+| [0387-first-unique-character-in-a-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0678-valid-parenthesis-string) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0860-design-circular-queue) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0954-maximum-sum-circular-subarray) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0778-reorganize-string) |
 | [1140-distant-barcodes](https://github.com/sadaffatima-10/Sadaffatima/tree/master/1140-distant-barcodes) |
