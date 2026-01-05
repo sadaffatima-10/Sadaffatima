@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0387-first-unique-character-in-a-string) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0451-sort-characters-by-frequency) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0350-intersection-of-two-arrays-ii) |
