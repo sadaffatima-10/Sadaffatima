@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0168-excel-sheet-column-title) |
