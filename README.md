@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0139-word-break) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/sadaffatima-10/Sadaffatima/tree/master/0224-basic-calculator) |
